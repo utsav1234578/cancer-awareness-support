@@ -26,15 +26,12 @@ A beautiful, fully responsive single-page website for cancer awareness and suppo
 2. **Open in browser:**
    - Simply open `index.html` in your web browser
    - Or use a local server:
-   
-     # Using Python
-     python -m http.server 8000
      
      # Using Node.js
      node server.js
      
 3. **View the site:**
-   - Navigate to `http://localhost:8000` (Python) or `http://localhost:3000` (Node.js)
+   - Navigate to `http://localhost:3000` (Node.js)
 
 ## 📦 Project Structure
 cancer-awareness-support
